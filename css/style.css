@@ -1,0 +1,34 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
+This is the file where you can add your custom styles to change the look of the
+theme. But don't modify style-main.css file.
+
+*/
+
+/* Your custom css codes start here: */
+
+.header.header-floating.header-transparent-dark.dark-light .header-nav {
+    background-color: rgba(0, 0, 0, 0.50) ;
+}
+
+.menuzord-brand img{
+	max-height: 63px;
+}
+
+@media only screen and (max-width: 991px) {
+  menuzord-brand img {
+    max-height: 63px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  menuzord-brand img {
+    max-height: 63px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  menuzord-brand img {
+    max-height: 63px;
+  }
+}
